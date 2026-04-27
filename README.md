@@ -2,7 +2,9 @@
 A simple stone paper scissor game built using python
 
 ## 🚀 Features
-- User vs Computer gameplay
+- Player vs Computer gameplay
+- Player vs player gameplay
+- Random choice for both player
 - Random computer choices
 - Input validation
 - Replay option
@@ -15,4 +17,4 @@ A simple stone paper scissor game built using python
 
 1. Clone the repository
 2. Run the file:
-python stone_paper_scissor.py
+python stone_paper_scissor_project.py
