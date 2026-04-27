@@ -1,16 +1,18 @@
-# stone_paper_scissor_project
-**A simple stone paper scissor game built using python**
+# Stone-Paper-Scissor-Game-using-Python
+A simple stone paper scissor game built using python
 
-##🚀 Features
-*Player vs Player*
-*Player vs Computer*
-*Random choice for player*
-*Random computer choices*
-Input validation
-Replay option
-##🛠️ Tech Used
-Python
-Random module
-##▶️ How to Run
-Clone the repository
-Run the file: python stone_paper_scissor.py
+## 🚀 Features
+- User vs Computer gameplay
+- Random computer choices
+- Input validation
+- Replay option
+
+## 🛠️ Tech Used
+- Python
+- Random module
+
+## ▶️ How to Run
+
+1. Clone the repository
+2. Run the file:
+python stone_paper_scissor.py
